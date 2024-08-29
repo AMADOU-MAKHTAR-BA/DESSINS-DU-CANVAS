@@ -1,0 +1,16 @@
+body{
+  background: #000000;
+}
+
+
+canvas{
+  margin-left: 4px;
+ border: dashed 7px #FF0000;
+
+}
+
+
+h1{
+  border:  dashed 10px;
+  text-align: center;
+}

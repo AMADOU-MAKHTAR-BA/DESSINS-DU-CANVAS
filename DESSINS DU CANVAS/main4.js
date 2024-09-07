@@ -11,6 +11,7 @@ distance = 70;
 ctx3 = cnv3.getContext('2d');
 tailleEcriture = ctx3.font = "70px sansSerif";
 ctx3.lineWidth = 4;
+
 const couleursSombresVariees = [
  "#8B0000", // Dark Red
  "#A52A2A", // Brown
